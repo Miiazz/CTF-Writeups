@@ -164,7 +164,7 @@ I used Inspect > Developer Tools > Storage to inspect cookies. A browser extensi
 **Points:** 200
 
 **Summary:**  
-This secret box is designed to conceal your secrets. It's perfectly secure—only you can see what's inside. Or can you?
+This secret box is designed to conceal your secrets. It's perfectly secure only you can see what's inside. Or can you?
 
 **Notes:**  
 Initial SQLi attempts against the login page were unsuccessful, and Burp Suite scans did not immediately reveal anything useful. Investigating the source with grep -rn login revealed that app/src/server.js handled the login logic. While most values were protected, one line in the app.post('/secrets/create') function stood out:
