@@ -12,7 +12,7 @@ These challenges were completed on a Lenovo ThinkPad E14 running Linux Mint with
 >
 > Connecting via OpenVPN is detailed in the first write-up, **Meow**.
 >
-> Adding the target IP to `/etc/hosts` using the shorthand `<challengeName>.htb` is detailed in **Kobold**.
+> Adding the target IP to `/etc/hosts` using the shorthand `<challengeName>.htb` is done to begin each challenge.
 
 ---
 
