@@ -20,7 +20,7 @@ These challenges were completed on a Lenovo ThinkPad E14 running Linux Mint with
 
 ### Very Easy
 - [Meow](HTB/VeryEasy/Meow.md)
-- [Fawn](HTB/Veryeasy/Fawn.md)
+- [Fawn](HTB/VeryEasy/Fawn.md)
 - [Dancing](HTB/VeryEasy/Dancing.md)
 - [Redeemer](HTB/VeryEasy/Redeemer.md)
 - [Appointment](HTB/VeryEasy/Appointment.md)
