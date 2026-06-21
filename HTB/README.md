@@ -19,15 +19,15 @@ These challenges were completed on a Lenovo ThinkPad E14 running Linux Mint with
 ## Write-Ups
 
 ### Very Easy
-- [Meow](/VeryEasy/meow.md)
-- [Fawn](/Veryeasy/fawn.md)
-- [Dancing](/VeryEasy/dancing.md)
-- [Redeemer](/VeryEasy/redeemer.md)
-- [Appointment](/VeryEasy/appointment.md)
+- [Meow](../VeryEasy/meow.md)
+- [Fawn](HTB/Veryeasy/fawn.md)
+- [Dancing](HTB/VeryEasy/dancing.md)
+- [Redeemer](HTB/VeryEasy/redeemer.md)
+- [Appointment](HTB/VeryEasy/appointment.md)
 
 ### Easy
-- [Cap](/easy/cap.md)
-- [Reactor](/easy/reactor.md)
+- [Cap](HTB/easy/cap.md)
+- [Reactor](HTB/easy/reactor.md)
 
 ---
 
